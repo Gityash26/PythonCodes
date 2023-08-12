@@ -1,0 +1,28 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zipcode": "10001"
+    },
+    "skills": [
+        "programming",
+        "web development",
+        "data analysis"
+    ],
+    "experience": [
+        {
+            "position": "Software Engineer",
+            "company": "ABC Corp",
+            "years": 5
+        },
+        {
+            "position": "Data Analyst",
+            "company": "XYZ Inc",
+            "years": 3
+        }
+    ]
+}
